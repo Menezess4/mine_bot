@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+node_modules/
+npm-debug.log*
+.env
+.env.*
+!.env.example
+.gradle/
+build/
+out/
+*.class
+Thumbs.db
+Desktop.ini
+*.log
