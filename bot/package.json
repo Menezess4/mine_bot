@@ -1,0 +1,12 @@
+{
+  "name": "minebot-ai",
+  "version": "0.0.1",
+  "description": "Bot de Minecraft com IA",
+  "main": "bot.js",
+  "scripts": {
+    "start": "node bot.js"
+  },
+  "dependencies": {
+    "mineflayer": "^4.39.0"
+  }
+}
